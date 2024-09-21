@@ -1,5 +1,6 @@
 {
   "packs": [
+    "CP_Extended.json",
     "AphTwin.json",
     "Mari4ka_UHP.json",
     "Schizopack.json",
@@ -11,8 +12,7 @@
     "monogatariseries.json",
     "VA11_HALLA.json",
     "va11halla.json",
-    "little_fox_Kitsune.json",
     "Satangirl.json"
   ],
-  "homeserver_url": "https://matrix-client.matrix.org"
+  "homeserver_url": "https://tchncs.de/"
 }
